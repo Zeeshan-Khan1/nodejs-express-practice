@@ -1,4 +1,5 @@
 ## What is Node.js?
+
 Node.js is a JavaScript runtime that lets you run JavaScript code outside of a web browser. It uses Google's V8 engine and is designed for building scalable network applications.
 
 ### Key Characteristics:
