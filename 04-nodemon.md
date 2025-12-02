@@ -39,4 +39,3 @@ npm run dev
 - Automatic reload on file changes
 
 - Great for development
-
