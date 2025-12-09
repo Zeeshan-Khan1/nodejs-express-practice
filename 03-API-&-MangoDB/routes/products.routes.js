@@ -1,6 +1,5 @@
 import express from "express"
 const router = express.Router()
-
 import { createProduct, readAllProducts } from "../controllers/products.controllers.js"
 
 // create product "/products"  
