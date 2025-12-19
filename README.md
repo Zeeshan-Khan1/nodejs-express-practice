@@ -5,7 +5,7 @@ This project demonstrates end-to-end functionality including frontend UI, backen
 
 ---
 
-## 🚀 Tech Stack Used
+## Tech Stack Used
 
 ### Frontend
 - **React.js** – Component-based UI development
@@ -23,7 +23,7 @@ This project demonstrates end-to-end functionality including frontend UI, backen
 
 ---
 
-## ✨ Features
+## Features
 
 - Create new records
 - Read and display data
