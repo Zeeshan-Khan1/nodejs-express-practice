@@ -1,4 +1,4 @@
-# 04 – Full Stack CRUD Application
+# 04 – Full Stack CRUD Applications
 
 A complete **Full Stack CRUD (Create, Read, Update, Delete)** web application built using the **MERN Stack**.  
 This project demonstrates end-to-end functionality including frontend UI, backend APIs, and database integration.
